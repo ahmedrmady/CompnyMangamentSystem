@@ -1,0 +1,31 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Outh.cshtml";
+}
+
+<div class="main-w3layouts wrapper">
+	<h1>Creative SignUp Form</h1>
+	<div class="main-agileinfo">
+		<div class="agileits-top">
+			<form action="Login" method="post">
+			 <input class="text email" asp-for="Email" placeholder="Email" required="">
+				<input class="text" asp-for="Password" placeholder="Password" required="">
+				<div class="wthree-text">
+					<label class="anim">
+						<input type="checkbox" class="checkbox" asp-for="RememberMe">
+					</label>
+					<div class="clear"> </div>
+				</div>
+				<input type="submit" value="SIGNUP">
+			</form>
+			<p>Don't have an Account? <a asp-action="Register"> Reigster Now!</a></p>
+		</div>
+	</div>
+
+	@section  ClintSideValidation{
+
+		<partial name="_ValidationScriptsPartial" />
+	}
+
+

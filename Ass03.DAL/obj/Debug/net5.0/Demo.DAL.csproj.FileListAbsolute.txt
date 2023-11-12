@@ -1,0 +1,12 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll

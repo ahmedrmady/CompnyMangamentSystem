@@ -1,0 +1,15 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Derails";
+}
+
+<h1>Employee Details</h1>
+<form asp-action="Dteails">
+
+    <partial name="PartialViews/DepartmentDetailsDeletePartial" model="Model" />
+
+    <input type="submit" value="Edite" class="btn btn-primary" />|
+<a asp-controller="Department" asp-action="Index">Back To List</a>
+
+</form>
+

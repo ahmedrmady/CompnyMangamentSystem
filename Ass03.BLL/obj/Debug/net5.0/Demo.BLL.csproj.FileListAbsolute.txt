@@ -1,0 +1,15 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\MvcDemoSolution\Ass03.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

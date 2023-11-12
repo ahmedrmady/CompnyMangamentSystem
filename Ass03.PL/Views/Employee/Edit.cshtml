@@ -1,0 +1,23 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Employee</h1>
+<br />
+<form class="form-group" asp-action="Edit" enctype="multipart/form-data" >
+    <div asp-validation-summary="All"></div>
+
+    <partial name="PartialViews/EmployeeCreateEditViewPartial" model="Model" />
+
+    <input type="submit" value="Save" class="btn btn-primary" />|
+    <a asp-controller="Employee" asp-action="Index">Back To List</a>
+
+
+</form>
+
+@section  ClintSideValidation{
+
+    <partial name="_ValidationScriptsPartial" />
+}
+
